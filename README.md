@@ -13,5 +13,5 @@ On Windows, `Ctrl + Shift` toggles the writing direction in most text fields. Li
 ## Installation
 1. Install [Violentmonkey](https://violentmonkey.github.io/).
 2. Click "Create a new script" and paste the code from `zen-rtl.user.js`.
-3. In the Script settings, change run-at to document-start
+3. In the Script settings, change run-at to document-idle
 4. Save and refresh your tabs.
