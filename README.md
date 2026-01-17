@@ -1,6 +1,6 @@
-# Zen RTL Toggle
+# Browser RTL Toggle
 
-A lightweight userscript for the **Zen Browser** (and other Firefox-based browsers) that brings the Windows-style `Ctrl + Shift` Right-to-Left (RTL) text toggle to Linux.
+A lightweight userscript for the Firefox/Chromium browsers that brings the Windows-style `Ctrl + Shift` Right-to-Left (RTL) text toggle to Linux.
 
 ## Why?
 On Windows, `Ctrl + Shift` toggles the writing direction in most text fields. Linux lacks a system-wide equivalent. This script restores that functionality within the browser.
